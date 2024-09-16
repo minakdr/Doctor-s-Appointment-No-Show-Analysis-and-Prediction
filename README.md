@@ -1,0 +1,2 @@
+# Doctor-s-Appointment-No-Show-Analysis-and-Prediction
+This project aims to analyze and predict whether patients will show up for their doctor's appointments. The dataset includes features related to the patient's information and appointment details. The goal is to identify patterns that could help predict  no-shows with linear regressoin and SVM and address class imbalance in the dataset using SMOTE 
