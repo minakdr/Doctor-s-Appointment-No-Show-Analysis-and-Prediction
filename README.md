@@ -7,7 +7,6 @@ Build and evaluate machine learning models to predict no-shows.
 Compare the performance of multiple models, including Logistic Regression and Decision Trees.
 
 **Data Preprocessing:**
-
 Handle missing values, outliers, and data imbalances.
 Feature engineering to create meaningful predictors.
 Exploratory Data Analysis (EDA):
@@ -21,16 +20,16 @@ Analyze the impact of factors such as gender, waiting time, and SMS reminders on
 ![Rplot01](https://github.com/user-attachments/assets/f6c7d041-26be-427a-96aa-dc54530f02a9)
 
 
-Model Building:
-
+**Model Building:**
 Train a Logistic Regression model and evaluate its performance.
 Build a Decision Tree model for better accuracy and interpretability.
-Evaluation:
 
-
+**Evaluation:**
 Confusion Matrix, Accuracy, Sensitivity, Specificity, and Kappa scores used to compare models.
 Decision Tree outperformed Logistic Regression with an accuracy of 71.98% and a Kappa score of 0.4278, showing better ability to identify no-shows.
-Technologies Used
-Programming Languages: R
+
+**Technologies Used**
+Programming Languages: R 
+Environement : R studio 
 Libraries: caret, ggplot2, rpart, e1071
 Machine Learning Models: Logistic Regression, Decision Tree
